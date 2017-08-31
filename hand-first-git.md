@@ -7,3 +7,15 @@ git config --global user.name catchwind
 git config --global user.email 594782271@qq.com
 
 ```
+
+# 第二步 新建Git仓库
+
+```bash
+git init
+
+```
+# 第三步 新建文件并追踪
+
+```bash
+git add <file>
+```
